@@ -1,0 +1,43 @@
+<svg
+  id="Nifty₩öñ"
+  viewBox="0 0 350 350"
+  width="350"
+  height="350"
+  text-anchor="middle"
+  xmlns="http://www.w3.org/2000/svg"
+  >
+  <circle
+    id="circle-0-0"
+    fill="#ffffff"
+    stroke="#ffffff"
+    stroke-width="3"
+    cx="175"
+    cy="175"
+    r="170"
+    />
+  <circle
+    id="circle-0-1"
+    fill="#000000"
+    cx="175"
+    cy="175"
+    r="160"
+    />
+  <text
+    id="symbol-0-0"
+    font-size="18em"
+    font-family="Hatton"
+    fill="#ffffff"
+    x="175"
+    y="270"
+    dy="0"
+    >₩</text>
+  <text
+    id="symbol-0-1"
+    font-size="1em"
+    font-family="Hatton"
+    fill="#ffffff"
+    x="175"
+    y="321"
+    dy="0"
+    >⪼ U+2049</text>
+</svg>
