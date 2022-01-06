@@ -4,12 +4,12 @@
   width="350"
   height="350"
   text-anchor="middle"
-  style="background-color: currentColor"
+  style="background-color: none"
   xmlns="http://www.w3.org/2000/svg"
   >
   <circle
     id="circle-0-0"
-    fill="currentColor"
+    fill="none"
     stroke="none"
     stroke-width="0"
     cx="175"
