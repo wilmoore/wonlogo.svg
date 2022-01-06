@@ -9,9 +9,9 @@
   >
   <circle
     id="circle-0-0"
-    fill="none"
-    stroke="none"
-    stroke-width="0"
+    fill="#35495D"
+    stroke="#ffffff"
+    stroke-width="3"
     cx="175"
     cy="175"
     r="175"
@@ -20,7 +20,7 @@
     id="circle-0-1"
     fill="none"
     stroke="#ffffff"
-    stroke-width="1"
+    stroke-width="0"
     cx="175"
     cy="175"
     r="173"
