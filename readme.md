@@ -1,24 +1,34 @@
 # wonlogo.svg
-> SVG Circular Logo with Centered Unicode Symbol
+>⪼ Made with 💜 by realpolyglot.dev
 
+SVG Circular Logo with Centered Unicode Symbol
 **Unicode Version**: 1.1 (1993)
 
-## Resources
-- [ ] [SCALABLE VECTOR GRAPHICS (SVG)](https://www.w3.org/Graphics/SVG/)
+## interfaces
+```
+interface Svg {
+  id: string
+  level: number
+}
 
-## Template Variables
+interface Circle {
+  id: string
+  level: number
+  radius: number
+}
 
-###### svg
-- id: `Nifty₩öñ`
+interface Text {
+  id: string
+  level: number
+  font-size: number
+  font-family: string
+  fill: string
+  y: number
+}
+```
 
-###### circle
-- id: `[0 | 1]`
-- radius: `[170 | 160]`
+## examples
+![cloudup](https://cloudup.com/cUDszmWUc-X+)
 
-###### text
-
-- id: `[0 | 1]`
-- font-size: `[18em | 1em]`
-- font-family: `Hatton`
-- fill: `#ffffff`
-- y: `[270 | 321]`
+## resources
+- [ ] [SVG](https://www.w3.org/Graphics/SVG/)
