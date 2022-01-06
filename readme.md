@@ -1,8 +1,10 @@
 # wonlogo.svg
 >⪼ Made with 💜 by realpolyglot.dev
 
-SVG Circular Logo with Centered Unicode Symbol
+[SVG][] Circular Logo with Centered [Unicode][] Symbol
 **Unicode Version**: 1.1 (1993)
+
+![](./index.svg)
 
 ## interfaces
 ```
@@ -27,8 +29,6 @@ interface Text {
 }
 ```
 
-## examples
-![cloudup](https://cloudup.com/cUDszmWUc-X+)
-
-## resources
-- [ ] [SVG](https://www.w3.org/Graphics/SVG/)
+---
+[SVG]: https://www.w3.org/Graphics/SVG/
+[Unicode]: https://unicode-table.com/en/20A9/
