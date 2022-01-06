@@ -2,6 +2,7 @@
 >⪼ Made with 💜 by realpolyglot.dev
 
 [SVG][] Circular Logo with Centered [Unicode][] Symbol
+
 **Unicode Version**: 1.1 (1993)
 
 ![](./index.svg)
