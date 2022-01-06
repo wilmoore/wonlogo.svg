@@ -1,39 +1,24 @@
 # wonlogo.svg
-> ...
+> SVG Circular Logo with Centered Unicode Symbol
 
-```
-> open -a Typora.app index.svg
-```
+**Unicode Version**: 1.1 (1993)
 
-## SVG
+## Resources
 - [ ] [SCALABLE VECTOR GRAPHICS (SVG)](https://www.w3.org/Graphics/SVG/)
 
 ## Template Variables
 
 ###### svg
-- id: Nifty₩öñ
+- id: `Nifty₩öñ`
 
 ###### circle
-- id: 0
-- radius: 170
-
----
-
-- id: 1
-- radius: 160
+- id: `[0 | 1]`
+- radius: `[170 | 160]`
 
 ###### text
 
-- id: 0
-- font-size: 18em
-- font-family: Hatton
-- fill: #ffffff
-- y: 270
-
----
-
-- id: 1
-- font-size: 1em
-- font-family: Hatton
-- fill: #ffffff
-- y: 321
+- id: `[0 | 1]`
+- font-size: `[18em | 1em]`
+- font-family: `Hatton`
+- fill: `#ffffff`
+- y: `[270 | 321]`
