@@ -33,7 +33,7 @@
     x="175"
     y="275"
     dy="0"
-    >₿</text>
+    >₩text>
   <text
     id="symbol-0-1"
     font-size="1em"
@@ -42,5 +42,5 @@
     x="175"
     y="321"
     dy="0"
-    >U+20BF</text>
+    >U+20A9</text>
 </svg>
