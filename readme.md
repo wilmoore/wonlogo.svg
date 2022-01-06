@@ -5,6 +5,7 @@
 
 ![](./index.svg)
 Romans 3:21
+
 [SVG][] Circular Logo with Centered [Unicode][] Symbol
 
 ---
