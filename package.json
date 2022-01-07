@@ -1,0 +1,14 @@
+{
+  "name": "wonlogo.svg",
+  "version": "1.0.0",
+  "main": "index.svg",
+  "repository": "git@github.com:wilmoore/wonlogo.svg.git",
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "svgexport": "^0.4.2"
+  },
+  "scripts": {
+    "svg:export": "svgexport index.svg index.png"
+  }
+}
