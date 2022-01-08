@@ -16,4 +16,5 @@ interface Text {
   font-family: string
   fill: string
   y: number
+  value: string
 }
