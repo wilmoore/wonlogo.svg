@@ -2,4 +2,5 @@
 . "$(dirname "$0")/_/husky.sh"
 
 yarn svg:export
-git add . && git commit -m 'svg:export' --no-verify
+git add $(cat package.json | jq -r '.main') && \
+  git commit -m 'svg:export' --no-verify
