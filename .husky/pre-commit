@@ -2,5 +2,3 @@
 . "$(dirname "$0")/_/husky.sh"
 
 yarn svg:export
-git add index.png
-git commit -m 'index.png' --no-verify
