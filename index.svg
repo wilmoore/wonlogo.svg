@@ -4,13 +4,12 @@
   width="350"
   height="350"
   text-anchor="middle"
-  style="background-color: transparent;"
+  style="background-color: #35495D"
   xmlns="http://www.w3.org/2000/svg"
   >
   <circle
     id="circle-0-0"
     fill="none"
-    fill-opacity="0"
     stroke="#ffffff"
     stroke-width="0"
     cx="175"
@@ -20,8 +19,7 @@
   <circle
     id="circle-0-1"
     fill="none"
-    fill-opacity="0"
-    stroke="#000"
+    stroke="#ffffff"
     stroke-width="3"
     cx="175"
     cy="175"
@@ -31,7 +29,7 @@
     id="symbol-0-0"
     font-size="16em"
     font-family="Times New Roman"
-    fill="#000"
+    fill="#ffffff"
     x="175"
     y="275"
     dy="0"
@@ -40,9 +38,9 @@
     id="symbol-0-1"
     font-size="1.1em"
     font-family="Times New Roman"
-    fill="#000"
+    fill="#ffffff"
     x="175"
     y="321"
     dy="0"
-    >Romans 3:21-26</text>
+    > 🌈 Romans 3:21-26 🦄 </text>
 </svg>
