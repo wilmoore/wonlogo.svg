@@ -4,7 +4,7 @@
   width="350"
   height="350"
   text-anchor="middle"
-  style="background-color: transparent;"
+  style="background-color: transparent important!;"
   xmlns="http://www.w3.org/2000/svg"
   >
   <circle
