@@ -15,7 +15,7 @@
     "svgexport": "^0.4.2"
   },
   "scripts": {
-    "svg:export": "svgexport index.svg index.png",
+    "svg:export": "svgexport index.svg index.png && svgexport index.svg index.jpg",
     "prepare": "husky install"
   }
 }
