@@ -1,11 +1,12 @@
 <svg
+  version="1.1"
   id="U+20A9"
   viewBox="0 0 350 350"
   width="350"
   height="350"
   text-anchor="middle"
   style="background-color: transparent important!;"
-  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
   >
   <circle
     id="circle-0-0"
@@ -38,15 +39,13 @@
     y="275"
     dy="0"
     >₩</text>
-  <a xlink:href="https://www.biblegateway.com/passage/?search=Proverbs%203%3A1-26&version=NLT">
-    <text
-      id="symbol-0-1"
-      font-size="1.3em"
-      font-family="Times New Roman"
-      fill="#000"
-      x="175"
-      y="321"
-      dy="0"
-      >Proverbs 3:1-26</text>
-  </a>
+  <text
+    id="symbol-0-1"
+    font-size="1.3em"
+    font-family="Times New Roman"
+    fill="#000"
+    x="175"
+    y="321"
+    dy="0"
+    >Proverbs 3:1-26</text>
 </svg>
