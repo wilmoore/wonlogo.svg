@@ -10,18 +10,7 @@
   xmlns="http://www.w3.org/2000/svg"
   >
   <circle
-    id="circle-0-0"
-    fill="none"
-    fill-opacity="0"
-    stroke="#ffffff"
-    stroke-width="0"
-    shape-rendering="geometricPrecision"
-    cx="175"
-    cy="175"
-    r="175"
-    />
-  <circle
-    id="circle-0-1"
+    id="circle"
     fill="none"
     fill-opacity="0"
     stroke="#000"
@@ -32,7 +21,7 @@
     r="173"
     />
   <text
-    id="symbol-0-0"
+    id="mark"
     font-size="18em"
     fill="#000"
     x="175"
@@ -40,7 +29,7 @@
     dy="0"
     >₩</text>
   <text
-    id="symbol-0-1"
+    id="name"
     font-size="1.5em"
     fill="#000"
     x="175"
