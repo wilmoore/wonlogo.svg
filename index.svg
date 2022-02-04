@@ -10,7 +10,7 @@
   xmlns="http://www.w3.org/2000/svg"
   >
   <circle
-    id="circle"
+    id="badge"
     fill="none"
     fill-opacity="0"
     stroke="#000"
@@ -21,7 +21,7 @@
     r="173"
     />
   <text
-    id="mark"
+    id="number"
     font-size="18em"
     fill="#000"
     x="175"
