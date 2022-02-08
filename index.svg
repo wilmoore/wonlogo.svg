@@ -14,18 +14,18 @@
     fill="none"
     fill-opacity="0"
     stroke="#000"
-    stroke-width="3"
+    stroke-width="21"
     shape-rendering="geometricPrecision"
     cx="175"
     cy="175"
-    r="173"
+    r="155"
     />
   <text
-    id="number"
-    font-size="18em"
+    id="number-0"
+    font-size="15em"
     fill="#000"
-    x="175"
-    y="275"
+    x="174"
+    y="255"
     dy="0"
     >₩</text>
   <text
@@ -33,7 +33,7 @@
     font-size="1.5em"
     fill="#000"
     x="175"
-    y="321"
+    y="290"
     dy="0"
     >Wil Moore III</text>
 </svg>
